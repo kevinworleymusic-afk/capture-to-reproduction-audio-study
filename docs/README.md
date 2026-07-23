@@ -9,10 +9,12 @@ This folder contains written documentation, study notes, and engineering write-u
 - Design rationale documents explaining decisions made in ongoing projects
 - Structured comparisons between approaches (e.g., passive vs. active crossovers, microphone topologies)
 
-## Status
+## Current Contents
 
-No documents have been added yet. This folder will be populated as study and documentation work progresses.
+- `00_Engineering_Study_Template.md` — base template for engineering studies and technical reports
+- `engineering_evolution/` — dedicated space for drafting vision documents for in-progress and planned write-ups
 
 ## Organization
 
-Files in this folder will be organized by topic area as they accumulate. A naming convention and index will be added once a sufficient number of documents exist to warrant one.
+- Core templates and shared guidance documents live at the root of `docs/`
+- Topic-specific draft vision documents can be developed in `docs/engineering_evolution/`
