@@ -56,6 +56,12 @@ capture-to-reproduction-audio-study/
 └── assets/             # Images, audio samples, and supporting media files
 ```
 
+### Current `docs/` Contents
+
+- `docs/README.md` — overview and organization notes for repository documentation
+- `docs/00_Engineering_Study_Template.md` — standard template for engineering studies and technical reports
+- `docs/engineering_evolution/` — working space for drafting vision documents that guide development of future documentation
+
 ---
 
 ## Related Repositories
