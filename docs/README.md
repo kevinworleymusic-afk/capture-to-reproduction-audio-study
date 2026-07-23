@@ -12,9 +12,9 @@ This folder contains written documentation, study notes, and engineering write-u
 ## Current Contents
 
 - `00_Engineering_Study_Template.md` — base template for engineering studies and technical reports
-- `engineering_evolution/` — dedicated space for drafting vision documents for in-progress and planned write-ups
+- `engineering-evolution/` — dedicated space for drafting vision documents for in-progress and planned write-ups
 
 ## Organization
 
 - Core templates and shared guidance documents live at the root of `docs/`
-- Topic-specific draft vision documents can be developed in `docs/engineering_evolution/`
+- Topic-specific draft vision documents can be developed in `docs/engineering-evolution/`

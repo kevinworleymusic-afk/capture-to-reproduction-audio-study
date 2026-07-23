@@ -60,7 +60,7 @@ capture-to-reproduction-audio-study/
 
 - `docs/README.md` — overview and organization notes for repository documentation
 - `docs/00_Engineering_Study_Template.md` — standard template for engineering studies and technical reports
-- `docs/engineering_evolution/` — working space for drafting vision documents that guide development of future documentation
+- `docs/engineering-evolution/` — working space for drafting vision documents that guide development of future documentation
 
 ---
 
