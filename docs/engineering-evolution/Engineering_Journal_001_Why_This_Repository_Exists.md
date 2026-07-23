@@ -119,21 +119,18 @@ relationship to the broader capture-to-reproduction framework.
 
 ## Looking Back / Looking Ahead
 
-  -----------------------------------------------------------------------
-  Looking Back                       Looking Ahead
-  ---------------------------------- ------------------------------------
-  This repository began with a broad The next task is to establish the
-  vision of connecting capture and   technical foundation by documenting
-  reproduction into one engineering  how the Dolby Atmos Session Layout
-  investigation.                     Study informs this work.
+# Looking Back
 
-  I recognize that my current        Future studies should test these
-  understanding is based primarily   ideas through literature reviews,
-  on recording engineering           measurements, simulations, and
-  experience and graduate study.     practical engineering analysis.
+- Creating this repository made me realize that my interests have gradually shifted from recording sessions toward understanding the entire reproduction chain in the automobile system.
 
-  At this stage, the emphasis is on  The long-term goal is to build a
-  defining meaningful engineering    technically rigorous body of work
-  questions rather than claiming     spanning capture, DSP, loudspeakers,
-  complete answers.                  and automotive audio.
-  -----------------------------------------------------------------------
+- I currently believe recording engineering and loudspeaker engineering are two parts of the same engineering problem, but I have not yet gathered enough evidence to defend that idea confidently.
+
+- At this stage, I have more questions than answers, and that is one of the primary reasons this repository exists.
+
+## Looking Ahead
+
+- Revisit my Dolby Atmos Session Layout Study and identify the engineering principles that carry over into reproduction systems.
+
+- Begin reading more literature on loudspeaker directivity, listener preference research, and automotive cabin acoustics to evaluate my current assumptions.
+
+- As new investigations are completed, return to this journal entry to determine which assumptions proved correct, which were incomplete, and which were ultimately incorrect.
