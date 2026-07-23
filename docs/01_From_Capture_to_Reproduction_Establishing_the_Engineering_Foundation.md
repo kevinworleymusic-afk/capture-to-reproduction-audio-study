@@ -144,4 +144,58 @@ investigation within this repository.
 
 # Central Engineering Question
 
-*To be developed in the next revision.*
+How do engineering decisions made throughout the complete audio signal chain influence the preservation and perception of an original acoustic event from capture through reproduction?
+
+------------------------------------------------------------------------
+
+Scope
+
+This repository investigates the engineering principles that influence the preservation and perception of sound throughout the complete audio signal chain. While individual studies may focus on specific technical disciplines, each investigation is intended to contribute toward a broader understanding of how engineering decisions affect the listener's final experience.
+
+Engineering disciplines investigated throughout this repository include, but are not limited to:
+Recording systems and microphone techniques
+Digital signal processing
+Loudspeaker system design
+Electroacoustic measurements
+Listening environment acoustics
+Psychoacoustics
+Immersive audio systems
+Automotive audio engineering
+System calibration and optimization
+Objective and subjective evaluation methodologies
+
+
+This repository emphasizes engineering analysis supported by published literature, mathematical reasoning, simulation, objective measurement, and structured critical listening. Individual investigations may employ one or more of these approaches depending on the engineering question being addressed.
+
+The repository is not intended to function as a product review resource, equipment recommendation guide, or collection of unsupported subjective listening impressions. While specific hardware and software may be examined when relevant to an engineering investigation, the primary objective is to understand the engineering principles that govern system behavior rather than evaluate individual commercial products.
+
+As the repository develops, additional engineering disciplines and research topics may be incorporated when they contribute to understanding the complete audio signal chain and remain consistent with the central engineering question established in this study.
+
+------------------------------------------------------------------------
+
+Complete Audio System Engineering Framework
+
+The central engineering question established in this study requires viewing audio reproduction as a complete engineering system rather than as a collection of independent technical disciplines. While recording engineering, digital signal processing, loudspeaker design, acoustics, and psychoacoustics are often studied separately, each represents one component of a larger system whose collective objective is the preservation and perception of an original acoustic event.
+
+Throughout this repository, engineering investigations will therefore be organized using the Complete Audio System Engineering Framework shown below. Rather than treating individual engineering disciplines as isolated subjects, this framework emphasizes how each subsystem interacts with those before and after it, ultimately influencing the listener's experience.
+
+                    Original Acoustic Event
+                               │
+                               ▼
+               Acoustic-to-Electrical Transduction
+                               │
+                               ▼
+                    Signal Processing & Storage
+                               │
+                               ▼
+               Electrical-to-Acoustic Transduction
+                               │
+                               ▼
+                    Acoustic Environment
+                               │
+                               ▼
+                      Human Perception
+
+Each engineering study within this repository will investigate one or more portions of this framework while considering their interactions with the complete audio system. Some investigations may focus on the behavior of a single subsystem, while others may examine the relationships between multiple stages. Regardless of scope, each study will contribute toward improving the understanding of how engineering decisions influence the preservation and perception of an original acoustic event.
+
+This framework serves as the organizational foundation of the repository, providing a common reference through which future investigations can be related, compared, and integrated into a unified body of engineering knowledge.
