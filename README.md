@@ -6,9 +6,13 @@ A portfolio repository documenting progression from recording engineering toward
 
 ## Project Overview
 
-This repository serves as a structured engineering portfolio that traces the full signal chain from acoustic capture to final reproduction. The work here connects practical recording experience — microphone technique, room acoustics, and ensemble placement — with the engineering disciplines that govern how that captured audio is ultimately reproduced: loudspeaker system design, digital signal processing, crossover networks, and automotive cabin acoustics.
+This repository serves as a structured engineering portfolio tracing the audio signal chain from acoustic capture to final reproduction.
 
-The goal is not to duplicate existing literature but to document original study, analysis, and design decisions as they develop over time.
+It builds upon previous graduate work in Audio Engineering Technology, including the design of an immersive Dolby Atmos Session Layout and studies of natural ensemble recording techniques. Those projects investigated how microphone placement, room acoustics, and recording methodology influence the accurate capture of an acoustic event.
+
+This repository continues that work by exploring the engineering decisions required to reproduce those captured sound fields through loudspeaker systems, digital signal processing, and automotive audio system design.
+
+Rather than viewing recording and reproduction as separate disciplines, this project approaches them as complementary stages of the same engineering problem.
 
 ---
 
@@ -27,10 +31,22 @@ Specific areas of focus include:
 - **Automotive audio** — cabin acoustics, boundary effects, and reproduction challenges unique to vehicle interiors
 
 ---
+## Foundation
+
+This repository continues several previous engineering studies, including:
+
+- **Dolby Atmos Recording Array Design**
+  - Design and documentation of a microphone layout intended for immersive audio capture in a Dolby Atmos production workflow.
+- **Natural Ensemble Recording Methodology**
+  - Investigation of microphone-array techniques and recording practices aimed at preserving a realistic acoustic presentation with minimal reliance on corrective post-production.
+- Additional recording, acoustics, and production projects completed during graduate study.
+
+The studies in this repository extend those capture-focused investigations into the reproduction side of the signal chain, including loudspeaker systems, DSP, room and vehicle acoustics, and objective system evaluation.
 
 ## Repository Structure
 
 ```
+
 capture-to-reproduction-audio-study/
 ├── README.md           # This file — repository overview and navigation
 ├── docs/               # Written documentation, study notes, and engineering write-ups
@@ -42,6 +58,15 @@ capture-to-reproduction-audio-study/
 
 ---
 
+## Related Repositories
+
+This repository complements my Audio File Report project, where objective analysis tools are developed to support many of the engineering investigations documented here.
+
+- **Capture-to-Reproduction Audio Study**
+  Engineering documentation exploring acoustic capture, loudspeaker systems, DSP, and automotive audio system design.
+https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study 
+
+---
 ## Current Projects
 
 No projects have been completed yet. This section will be updated as work progresses.
