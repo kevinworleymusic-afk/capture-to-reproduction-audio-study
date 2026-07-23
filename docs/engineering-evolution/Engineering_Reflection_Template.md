@@ -24,6 +24,7 @@ Your current understanding.
 
 ### What document or experiment will answer those questions?
 
-## Looking Back
+| Looking Back                     | Looking Ahead                            |
+| -------------------------------- | ---------------------------------------- |
+| What assumption became stronger? | What assumption needs to be tested next? |
 
-Reference previous entries that relate.
