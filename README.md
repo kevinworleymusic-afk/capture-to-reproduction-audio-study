@@ -2,7 +2,7 @@
 
 A portfolio repository documenting progression from [recording engineering](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) toward loudspeaker system design, [DSP](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Coding-and-Audio-Software/MATLAB-Projects), and automotive audio reproduction.
 
-## Publication status
+## Publication Status
 
 This repository contains **independent educational and portfolio work, not peer-reviewed or formally published research**. Citations to published literature are supporting references and do not imply that the studies or analyses in this repository have been academically published.
 
