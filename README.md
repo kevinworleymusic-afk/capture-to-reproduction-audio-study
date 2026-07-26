@@ -1,6 +1,6 @@
 # Capture-to-Reproduction Audio Study
 
-A portfolio repository documenting progression from recording engineering toward loudspeaker system design, DSP, and automotive audio reproduction.
+A portfolio repository documenting progression from [recording engineering](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) toward loudspeaker system design, [DSP](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Coding-and-Audio-Software/MATLAB-Projects), and automotive audio reproduction.
 
 ## Publication status
 
@@ -10,11 +10,11 @@ This repository contains **independent educational and portfolio work, not peer-
 
 ## Project Overview
 
-This repository serves as a structured engineering portfolio tracing the audio signal chain from acoustic capture to final reproduction.
+This repository serves as a [structured engineering portfolio](docs/) tracing the audio signal chain from [acoustic capture](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) to final reproduction.
 
-It builds upon previous graduate work in Audio Engineering Technology, including the design of an immersive Dolby Atmos Session Layout and studies of natural ensemble recording techniques. Those projects investigated how microphone placement, room acoustics, and recording methodology influence the accurate capture of an acoustic event.
+It builds upon [previous graduate work in Audio Engineering](https://www.belmont.edu/academics/majors-programs/ms-audio-engineering/), including the design of an [immersive Dolby Atmos Session Layout](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf) and studies of [natural ensemble recording techniques](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study). Those projects investigated how [microphone placement, room acoustics, and recording methodology](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) influence the accurate capture of an acoustic event.
 
-This repository continues that work by exploring the engineering decisions required to reproduce those captured sound fields through loudspeaker systems, digital signal processing, and automotive audio system design.
+This repository continues that work by exploring the engineering decisions required to reproduce those captured sound fields through loudspeaker systems, [digital signal processing](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#audio-dsp-and-software), and automotive audio system design.
 
 Rather than viewing recording and reproduction as separate disciplines, this project approaches them as complementary stages of the same engineering problem.
 
@@ -28,10 +28,10 @@ The central question guiding this portfolio is:
 
 Specific areas of focus include:
 
-- **Acoustic capture** — microphone polar patterns, placement geometry, room interaction, and ensemble balance
-- **Signal chain integrity** — gain structure, analog-to-digital conversion, and file format considerations
+- [**Acoustic capture**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) — microphone polar patterns, placement geometry, room interaction, and ensemble balance
+- [**Signal chain integrity**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study) — gain structure, analog-to-digital conversion, and file-format considerations
 - **Loudspeaker system design** — driver selection, enclosure modeling, and crossover topology
-- **Digital signal processing** — equalization, time alignment, and room correction
+- [**Digital signal processing**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Coding-and-Audio-Software/MATLAB-Projects) — equalization, time alignment, and room correction
 - **Automotive audio** — cabin acoustics, boundary effects, and reproduction challenges unique to vehicle interiors
 
 ---
@@ -39,11 +39,11 @@ Specific areas of focus include:
 
 This repository continues several previous engineering studies, including:
 
-- **Dolby Atmos Recording Array Design**
-  - Design and documentation of a microphone layout intended for immersive audio capture in a Dolby Atmos production workflow.
-- **Natural Ensemble Recording Methodology**
+- [**Dolby Atmos Recording Array Design**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/blob/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf)
+  - [Design and documentation of a microphone layout](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) intended for immersive audio capture in a Dolby Atmos production workflow.
+- [**Natural Ensemble Recording Methodology**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study)
   - Investigation of microphone-array techniques and recording practices aimed at preserving a realistic acoustic presentation with minimal reliance on corrective post-production.
-- Additional recording, acoustics, and production projects completed during graduate study.
+- [Additional recording, acoustics, and production projects completed during graduate study](https://github.com/kevinworleymusic-afk/engineering-development-portfolio#major-technical-audio-and-applied-engineering-projects).
 
 The studies in this repository extend those capture-focused investigations into the reproduction side of the signal chain, including loudspeaker systems, DSP, room and vehicle acoustics, and objective system evaluation.
 
@@ -62,19 +62,19 @@ capture-to-reproduction-audio-study/
 
 ### Current `docs/` Contents
 
-- `docs/README.md` — overview and organization notes for repository documentation
-- `docs/00_Engineering_Study_Template.md` — standard template for engineering studies and technical reports
-- `docs/engineering-evolution/` — working space for drafting vision documents that guide development of future documentation
+- [docs/README.md](docs/README.md) — overview and organization notes for repository documentation
+- [docs/00_Engineering_Study_Template.md](docs/00_Engineering_Study_Template.md) — standard template for engineering studies and technical reports
+- [docs/engineering-evolution/](docs/engineering-evolution/) — working space for drafting vision documents that guide development of future documentation
 
 ---
 
 ## Related Repositories
 
-This repository complements my Audio File Report project, where objective analysis tools are developed to support many of the engineering investigations documented here.
+This repository complements my [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), where objective analysis tools are developed to support many of the engineering investigations documented here.
 
-- **Capture-to-Reproduction Audio Study**
-  Engineering documentation exploring acoustic capture, loudspeaker systems, DSP, and automotive audio system design.
-https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study 
+- [**Technical Audio Engineering Portfolio**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio) — broader evidence across measurement, immersive audio, DSP, and software
+- [**Dolby Atmos Recording Independent Study**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) — capture-focused foundation for this reproduction study
+- [**Technical Ear Training**](https://github.com/kevinworleymusic-afk/technical-ear-training) — structured critical-listening development for system evaluation
 
 ---
 ## Current Projects
