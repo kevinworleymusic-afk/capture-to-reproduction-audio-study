@@ -2,6 +2,10 @@
 
 A portfolio repository documenting progression from recording engineering toward loudspeaker system design, DSP, and automotive audio reproduction.
 
+## Publication status
+
+This repository contains **independent educational and portfolio work, not peer-reviewed or formally published research**. Citations to published literature are supporting references and do not imply that the studies or analyses in this repository have been academically published.
+
 ---
 
 ## Project Overview
