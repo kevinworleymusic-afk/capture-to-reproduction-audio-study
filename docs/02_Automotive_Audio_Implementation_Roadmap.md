@@ -150,6 +150,19 @@ Required documentation:
 - Repeatability checks
 - Measurement uncertainty and limitations
 
+## Conditional Scenario — Installed Car DSP Development Platform
+
+**Status:** Conditional and funding-dependent  
+**Detailed plan:** [Conditional Car DSP Installation and Portfolio Validation Plan](04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
+
+If sufficient capital becomes available, this scenario would proceed only after an itemized vehicle-specific quote confirms the complete equipment and installation cost and the system satisfies the required portfolio-development conditions.
+
+The installation must provide full tuning-software access, exportable and restorable project files, a protected installer baseline, a complete channel map, safe crossover and limiter documentation, a comparison or bypass method, acceptable warranty terms, and enough independent control to support measurement-guided study. The factory system would be measured before installation.
+
+If those conditions are satisfied, the installed DSP could support factory-versus-installed comparisons, time alignment, crossover and phase analysis, measurement-guided EQ, subwoofer integration where applicable, driver-focused versus all-seat presets, critical-listening correlation, configuration repeatability, and an integrated aftermarket automotive-audio case study.
+
+The scenario remains optional. It will not proceed if adequate capital is unavailable, the total installed cost is unclear, the tuning is shop-locked, project files cannot be retained, safety boundaries cannot be protected, or the portfolio access does not justify the investment.
+
 ## Phase 3 — Belmont Immersive Audio Evaluation Study
 
 ### Project 5: Open-Room vs. Simulated-Cabin Evaluation
@@ -234,6 +247,7 @@ Part 2 will remain separate from the original Part 1 experiment. DSP processing 
 These items can strengthen the portfolio but are not required for the core program:
 
 - Physical SigmaDSP deployment and measurement
+- Conditional installed car DSP study if the capital, quote, access, safety, and documentation requirements are satisfied
 - Audio Weaver native-PC or embedded implementation
 - Embedded-C audio-controller development
 - Physical two-node CAN bench
@@ -309,7 +323,8 @@ The intended priority order is:
 3. Specify the 25-speaker conceptual architecture.
 4. Build a representative GNU Octave/Python DSP model.
 5. Complete a vehicle measurement campaign.
-6. Conduct the Belmont pilot or full study if approved.
-7. Use the resulting evidence for the SigmaStudio Part 2 project.
-8. Add physical hardware or Audio Weaver only when access and project needs justify it.
+6. Evaluate the [conditional installed car DSP scenario](04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md) only after sufficient capital, an itemized quote, and full portfolio-access conditions are confirmed.
+7. Conduct the Belmont pilot or full study if approved.
+8. Use the resulting evidence for the SigmaStudio Part 2 project.
+9. Add other physical hardware or Audio Weaver only when access and project needs justify it.
 
