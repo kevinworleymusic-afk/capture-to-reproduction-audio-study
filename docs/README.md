@@ -12,6 +12,9 @@ This folder contains written documentation, study notes, and engineering write-u
 ## Current Contents
 
 - [00_Engineering_Study_Template.md](00_Engineering_Study_Template.md) — base template for engineering studies and technical reports
+- [01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md](01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md) — systems-level foundation connecting capture, processing, reproduction, acoustics, and perception
+- [02_Automotive_Audio_Implementation_Roadmap.md](02_Automotive_Audio_Implementation_Roadmap.md) — staged plan for CAN simulation, 25-speaker architecture, DSP simulation, vehicle measurements, the Belmont study, and optional hardware extensions
+- [03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md](03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) — detailed post-study plan for measurement-guided DSP development
 - [engineering-evolution/](engineering-evolution/) — dedicated space for drafting vision documents for in-progress and planned write-ups
 
 ## Organization
