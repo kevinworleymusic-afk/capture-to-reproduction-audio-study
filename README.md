@@ -65,6 +65,9 @@ capture-to-reproduction-audio-study/
 
 - [docs/README.md](docs/README.md) — overview and organization notes for repository documentation
 - [docs/00_Engineering_Study_Template.md](docs/00_Engineering_Study_Template.md) — standard template for engineering studies and technical reports
+- [docs/01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md](docs/01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md) — systems-level engineering foundation
+- [docs/02_Automotive_Audio_Implementation_Roadmap.md](docs/02_Automotive_Audio_Implementation_Roadmap.md) — prioritized automotive plan designed to produce employer-reviewable evidence in stages
+- [docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md](docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) — measurement-guided SigmaStudio follow-up to the proposed immersive study
 - [docs/engineering-evolution/](docs/engineering-evolution/) — working space for drafting vision documents that guide development of future documentation
 
 ---
@@ -78,29 +81,35 @@ This repository complements my [Audio File Report](https://github.com/kevinworle
 - [**Technical Ear Training**](https://github.com/kevinworleymusic-afk/technical-ear-training) — established and continuing critical-listening development for system evaluation, including a quantified [SoundGym SPI of 3,410,130 and Diamond Ears recognition](https://www.soundgym.co/member/profile?m=byy1s26wj7u), followed by continued Jason Corey-based technical ear training
 
 ---
-## Current Projects
+## Planned Automotive Implementation Program
 
-No projects have been completed yet. This section will be updated as work progresses.
+The [Automotive Audio Implementation Roadmap](docs/02_Automotive_Audio_Implementation_Roadmap.md) organizes the planned work so that early projects create complete, employer-reviewable evidence while access-dependent and hardware-dependent extensions remain clearly labeled.
 
-Planned initial work includes:
+Initial planned work includes:
 
-- Documenting the theoretical relationship between microphone capture geometry and stereo image reproduction on a two-channel loudspeaker system
-- Surveying crossover topologies and their interaction with driver impedance curves
-- Beginning an automotive cabin acoustic study using available measurement references
+- A software-in-the-loop Python CAN/DBC simulation for automotive audio control and diagnostics
+- A platform-independent conceptual 25-speaker automotive immersive architecture
+- A representative GNU Octave/Python DSP simulation
+- A controlled vehicle acoustic-measurement campaign and connected analysis portfolio
+- A proposed Belmont open-room versus simulated-cabin immersive evaluation
+- A [post-study SigmaStudio DSP project](docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
+- Optional physical DSP, Audio Weaver, embedded-C, and physical-CAN extensions when access and project requirements justify them
+
+These items are plans, not completed-work claims. Each will be assigned a visible status as it progresses.
 
 ---
 
-## Future Roadmap
+## Development Sequence
 
-The following areas are planned for future development. Items are listed in approximate order of priority, not completion:
+The detailed [automotive implementation roadmap](docs/02_Automotive_Audio_Implementation_Roadmap.md) follows this sequence:
 
-1. **Signal chain documentation** — end-to-end write-up of capture-to-reproduction decisions with justification for each stage
-2. **Loudspeaker system design study** — enclosure modeling, driver parameter analysis (Thiele/Small), and crossover design
-3. **DSP implementation notes** — parametric EQ, linear-phase filtering, and digital crossover design
-4. **Automotive acoustics module** — literature review and cabin measurement methodology
-5. **Comparative listening analysis framework** — structured approach to evaluating reproduction against source intent
+1. Independently achievable CAN, architecture, DSP-simulation, and critical-listening work
+2. Vehicle measurement and analysis
+3. Belmont immersive evaluation if institutional access is approved
+4. Measurement-guided SigmaStudio implementation
+5. Optional physical hardware, Audio Weaver, embedded-C, and expanded research
 
-This roadmap reflects intent, not completed work. Updates will be made as each area is studied and documented.
+Applications and professional outreach do not need to wait for every phase. Each completed stage is intended to stand as independently reviewable portfolio evidence.
 
 ---
 
