@@ -33,6 +33,7 @@ Specific areas of focus include:
 - **Loudspeaker system design** — driver selection, enclosure modeling, and crossover topology
 - [**Digital signal processing**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Coding-and-Audio-Software/MATLAB-Projects) — equalization, time alignment, and room correction
 - **Automotive audio** — cabin acoustics, boundary effects, and reproduction challenges unique to vehicle interiors
+- [**Critical listening**](https://github.com/kevinworleymusic-afk/technical-ear-training) — connecting a quantified [SoundGym SPI and Diamond Ears record](https://www.soundgym.co/member/profile?m=byy1s26wj7u), continued Jason Corey-based training, and structured listening observations to measurement and system evaluation
 
 ---
 ## Foundation
@@ -74,7 +75,7 @@ This repository complements my [Audio File Report](https://github.com/kevinworle
 
 - [**Technical Audio Engineering Portfolio**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio) — broader evidence across measurement, immersive audio, DSP, and software
 - [**Dolby Atmos Recording Independent Study**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) — capture-focused foundation for this reproduction study
-- [**Technical Ear Training**](https://github.com/kevinworleymusic-afk/technical-ear-training) — structured critical-listening development for system evaluation
+- [**Technical Ear Training**](https://github.com/kevinworleymusic-afk/technical-ear-training) — established and continuing critical-listening development for system evaluation, including a quantified [SoundGym SPI of 3,410,130 and Diamond Ears recognition](https://www.soundgym.co/member/profile?m=byy1s26wj7u), followed by continued Jason Corey-based technical ear training
 
 ---
 ## Current Projects
