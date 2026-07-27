@@ -68,6 +68,7 @@ capture-to-reproduction-audio-study/
 - [docs/01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md](docs/01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md) — systems-level engineering foundation
 - [docs/02_Automotive_Audio_Implementation_Roadmap.md](docs/02_Automotive_Audio_Implementation_Roadmap.md) — prioritized automotive plan designed to produce employer-reviewable evidence in stages
 - [docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md](docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) — measurement-guided SigmaStudio follow-up to the proposed immersive study
+- [docs/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md](docs/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md) — conditional scenario for an installed car DSP, proceeding only with sufficient capital, an acceptable itemized quote, and full tuning/configuration access
 - [docs/engineering-evolution/](docs/engineering-evolution/) — working space for drafting vision documents that guide development of future documentation
 
 ---
@@ -93,7 +94,8 @@ Initial planned work includes:
 - A controlled vehicle acoustic-measurement campaign and connected analysis portfolio
 - A proposed Belmont open-room versus simulated-cabin immersive evaluation
 - A [post-study SigmaStudio DSP project](docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
-- Optional physical DSP, Audio Weaver, embedded-C, and physical-CAN extensions when access and project requirements justify them
+- A [conditional installed car DSP scenario](docs/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md), pursued only if sufficient capital, an acceptable quote, full software/project-file access, protected safety settings, warranty clarity, and meaningful portfolio control are confirmed
+- Optional SigmaDSP hardware, Audio Weaver, embedded-C, and physical-CAN extensions when access and project requirements justify them
 
 These items are plans, not completed-work claims. Each will be assigned a visible status as it progresses.
 
@@ -107,7 +109,8 @@ The detailed [automotive implementation roadmap](docs/02_Automotive_Audio_Implem
 2. Vehicle measurement and analysis
 3. Belmont immersive evaluation if institutional access is approved
 4. Measurement-guided SigmaStudio implementation
-5. Optional physical hardware, Audio Weaver, embedded-C, and expanded research
+5. Conditional installed car DSP work if its capital, quote, access, safety, and documentation gates are satisfied
+6. Optional additional hardware, Audio Weaver, embedded-C, and expanded research
 
 Applications and professional outreach do not need to wait for every phase. Each completed stage is intended to stand as independently reviewable portfolio evidence.
 
