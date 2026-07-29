@@ -153,9 +153,10 @@ Required documentation:
 ## Conditional Scenario — Installed Car DSP Development Platform
 
 **Status:** Conditional and funding-dependent  
-**Detailed plan:** [Conditional Car DSP Installation and Portfolio Validation Plan](04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
+**Detailed plan:** [Conditional Car DSP Installation and Portfolio Validation Plan](04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)  
+**Installer brief:** [Car DSP Installation Requirements & Quote Checklist](Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf)
 
-If sufficient capital becomes available, this scenario would proceed only after an itemized vehicle-specific quote confirms the complete equipment and installation cost and the system satisfies the required portfolio-development conditions.
+If sufficient capital becomes available, this scenario would proceed only after the [installer requirements and quote checklist](Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf) is reviewed with a qualified shop and an itemized vehicle-specific quote confirms the complete equipment and installation cost and the system satisfies the required portfolio-development conditions.
 
 The installation must provide full tuning-software access, exportable and restorable project files, a protected installer baseline, a complete channel map, safe crossover and limiter documentation, a comparison or bypass method, acceptable warranty terms, and enough independent control to support measurement-guided study. The factory system would be measured before installation.
 
