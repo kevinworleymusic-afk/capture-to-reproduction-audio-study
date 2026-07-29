@@ -16,6 +16,7 @@ This folder contains written documentation, study notes, and engineering write-u
 - [02_Automotive_Audio_Implementation_Roadmap.md](02_Automotive_Audio_Implementation_Roadmap.md) — staged plan for CAN simulation, 25-speaker architecture, DSP simulation, vehicle measurements, the Belmont study, and optional hardware extensions
 - [03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md](03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) — detailed post-study plan for measurement-guided DSP development
 - [04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md](04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md) — funding- and quote-dependent scenario for using an installed vehicle DSP as a measurement, tuning, and validation platform
+- [05_Real-Time_DSP_Prototype_in_Pure_Data.md](05_Real-Time_DSP_Prototype_in_Pure_Data.md) — design context, signal-flow interpretation, technical audit, and revision plan for the initial Pure Data DSP prototype
 - [engineering-evolution/](engineering-evolution/) — dedicated space for drafting vision documents for in-progress and planned write-ups
 
 ## Organization
