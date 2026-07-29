@@ -18,11 +18,11 @@ Areas of focus include acoustic capture, signal-chain integrity, real-time DSP, 
 
 ---
 
-# Project 1: Real-Time DSP Prototype in Pure Data
+# Project 01: Real-Time DSP Prototype in Pure Data
 
 **Status:** Implemented educational prototype under continued technical review
 
-- [Full project documentation](docs/05_Real-Time_DSP_Prototype_in_Pure_Data.md)
+- [Full project documentation](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
 - [Original Pure Data patch](assets/pure-data/Sample_Circuit.pd)
 - [Clean layout, Version 2](assets/pure-data/Sample_Circuit_Clean_v2.pd)
 
@@ -47,7 +47,7 @@ The project documentation identifies what is implemented, what still requires va
 ## Foundation documents
 
 - [Engineering Study Template](docs/00_Engineering_Study_Template.md)
-- [From Capture to Reproduction: Establishing the Engineering Foundation](docs/01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md)
+- [From Capture to Reproduction: Establishing the Engineering Foundation](docs/Engineering_Foundation_From_Capture_to_Reproduction.md)
 
 These documents establish the systems-level framework connecting capture, processing, acoustics, reproduction, measurement, and perception.
 
@@ -77,9 +77,12 @@ capture-to-reproduction-audio-study/
 ├── README.md
 ├── docs/
 │   ├── 00_Engineering_Study_Template.md
-│   ├── 01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md
-│   ├── 05_Real-Time_DSP_Prototype_in_Pure_Data.md
+│   ├── Engineering_Foundation_From_Capture_to_Reproduction.md
+│   ├── 01_Real-Time_DSP_Prototype_in_Pure_Data.md
 │   ├── Future-Projects/
+│   │   ├── 02_Automotive_Audio_Implementation_Roadmap.md
+│   │   ├── 03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md
+│   │   └── 04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md
 │   └── engineering-evolution/
 ├── diagrams/
 ├── references/
