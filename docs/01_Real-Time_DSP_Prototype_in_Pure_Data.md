@@ -1,4 +1,4 @@
-# Project 1: Real-Time DSP Prototype in Pure Data
+# Project 01: Real-Time DSP Prototype in Pure Data
 
 ## Project status
 
