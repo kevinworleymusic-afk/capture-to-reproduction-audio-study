@@ -4,7 +4,9 @@
 
 **Conditional and funding-dependent.**
 
-This scenario would be implemented only if sufficient capital becomes available, an itemized vehicle-specific quote is obtained, and the proposed equipment and installation satisfy the access, safety, documentation, and portfolio-development conditions defined below.
+**Installer-facing document:** [Car DSP Installation Requirements & Quote Checklist](Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf)
+
+This scenario would be implemented only if sufficient capital becomes available, the requirements in the [installer quote checklist](Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf) are addressed and an itemized vehicle-specific quote is obtained, and the proposed equipment and installation satisfy the access, safety, documentation, and portfolio-development conditions defined below.
 
 This document is a planning scenario, not a purchase commitment, completed installation, or claim of vehicle-tuning experience.
 
