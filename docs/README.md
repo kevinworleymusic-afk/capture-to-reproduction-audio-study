@@ -1,25 +1,25 @@
 # docs/
 
-This folder contains written documentation, study notes, and engineering write-ups produced as part of the [Capture-to-Reproduction Audio Study](../README.md).
+This folder contains the written documentation, study notes, and engineering write-ups produced as part of the [Capture-to-Reproduction Audio Study](../README.md).
 
 ## Active implementation project
 
-1. [Project 1: Real-Time DSP Prototype in Pure Data](05_Real-Time_DSP_Prototype_in_Pure_Data.md) — implemented Pure Data workbench covering stereo playback, sum/difference processing, delay, filtering, channel gain, low-frequency routing, test-signal generation, envelope-derived control, and protected outputs. The documentation includes the original patch and the cleaner Version 2 layout.
+- [01 — Real-Time DSP Prototype in Pure Data](01_Real-Time_DSP_Prototype_in_Pure_Data.md) — implemented Pure Data workbench covering stereo playback, sum/difference experimentation, delay, filtering, channel gain, low-frequency routing, test-signal generation, envelope-derived control, and protected outputs.
 
 ## Shared foundation documents
 
-- [00_Engineering_Study_Template.md](00_Engineering_Study_Template.md) — base template for engineering studies and technical reports
-- [01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md](01_From_Capture_to_Reproduction_Establishing_the_Engineering_Foundation.md) — systems-level foundation connecting capture, processing, reproduction, acoustics, and perception
+- [Engineering Study Template](00_Engineering_Study_Template.md) — reusable structure for engineering studies and technical reports
+- [From Capture to Reproduction: Establishing the Engineering Foundation](Engineering_Foundation_From_Capture_to_Reproduction.md) — systems-level foundation connecting capture, processing, reproduction, acoustics, and perception
 
 ## Future projects
 
-Planned, proposed, conditional, and access-dependent work is grouped separately in [Future-Projects/](Future-Projects/) so it is not visually blended with implemented work.
+Projects that follow 01 are grouped under [Future-Projects/](Future-Projects/) and numbered in sequence:
 
-The future-project group currently covers:
+- [02 — Automotive Audio Implementation Roadmap](Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)
+- [03 — Measurement-Guided DSP Development in SigmaStudio](Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
+- [04 — Conditional Car DSP Installation and Portfolio Validation Plan](Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
 
-- the automotive audio implementation roadmap
-- a planned measurement-guided SigmaStudio follow-up
-- a conditional installed-car-DSP validation platform
+These are planned, proposed, conditional, or access-dependent projects rather than completed-work claims.
 
 ## Additional working material
 
