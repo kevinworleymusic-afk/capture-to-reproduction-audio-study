@@ -36,6 +36,7 @@ Specific areas of focus include:
 - [**Critical listening**](https://github.com/kevinworleymusic-afk/technical-ear-training) — connecting a quantified [SoundGym SPI and Diamond Ears record](https://www.soundgym.co/member/profile?m=byy1s26wj7u), continued Jason Corey-based training, and structured listening observations to measurement and system evaluation
 
 ---
+
 ## Foundation
 
 This repository continues several previous engineering studies, including:
@@ -58,7 +59,7 @@ capture-to-reproduction-audio-study/
 ├── diagrams/           # Signal flow charts, system block diagrams, and schematic references
 ├── references/         # Source materials, citations, and annotated reading lists
 ├── results/            # Measurements, simulation outputs, and analysis artifacts
-└── assets/             # Images, audio samples, and supporting media files
+└── assets/             # Images, audio samples, Pure Data patches, and supporting media files
 ```
 
 ### Current `docs/` Contents
@@ -69,7 +70,12 @@ capture-to-reproduction-audio-study/
 - [docs/02_Automotive_Audio_Implementation_Roadmap.md](docs/02_Automotive_Audio_Implementation_Roadmap.md) — prioritized automotive plan designed to produce employer-reviewable evidence in stages
 - [docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md](docs/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) — measurement-guided SigmaStudio follow-up to the proposed immersive study
 - [docs/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md](docs/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md) — conditional scenario for an installed car DSP, proceeding only with sufficient capital, an acceptable itemized quote, and full tuning/configuration access
+- [docs/05_Real-Time_DSP_Prototype_in_Pure_Data.md](docs/05_Real-Time_DSP_Prototype_in_Pure_Data.md) — documented Pure Data implementation artifact, technical audit, and staged revision plan
 - [docs/engineering-evolution/](docs/engineering-evolution/) — working space for drafting vision documents that guide development of future documentation
+
+### Current implementation artifacts
+
+- [assets/pure-data/Sample_Circuit.pd](assets/pure-data/Sample_Circuit.pd) — original Pure Data patch preserved as the starting state for the real-time DSP prototype and audit
 
 ---
 
@@ -82,6 +88,7 @@ This repository complements my [Audio File Report](https://github.com/kevinworle
 - [**Technical Ear Training**](https://github.com/kevinworleymusic-afk/technical-ear-training) — established and continuing critical-listening development for system evaluation, including a quantified [SoundGym SPI of 3,410,130 and Diamond Ears recognition](https://www.soundgym.co/member/profile?m=byy1s26wj7u), followed by continued Jason Corey-based technical ear training
 
 ---
+
 ## Planned Automotive Implementation Program
 
 The [Automotive Audio Implementation Roadmap](docs/02_Automotive_Audio_Implementation_Roadmap.md) organizes the planned work so that early projects create complete, employer-reviewable evidence while access-dependent and hardware-dependent extensions remain clearly labeled.
@@ -111,6 +118,8 @@ The detailed [automotive implementation roadmap](docs/02_Automotive_Audio_Implem
 4. Measurement-guided SigmaStudio implementation
 5. Conditional installed car DSP work if its capital, quote, access, safety, and documentation gates are satisfied
 6. Optional additional hardware, Audio Weaver, embedded-C, and expanded research
+
+The [Pure Data real-time DSP prototype](docs/05_Real-Time_DSP_Prototype_in_Pure_Data.md) is retained as a preliminary implementation and technical-audit exercise that supports the later simulation and SigmaStudio stages without being represented as a completed automotive system.
 
 Applications and professional outreach do not need to wait for every phase. Each completed stage is intended to stand as independently reviewable portfolio evidence.
 
