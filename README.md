@@ -26,6 +26,10 @@ Areas of focus include acoustic capture, signal-chain integrity, real-time DSP, 
 - [Original Pure Data patch](assets/pure-data/Sample_Circuit.pd)
 - [Clean layout, Version 2](assets/pure-data/Sample_Circuit_Clean_v2.pd)
 
+**Programming / DSP environment:** [Pure Data](https://puredata.info/) (`.pd`) — a visual dataflow programming environment for real-time audio and multimedia systems. The repository's [GitHub Linguist configuration](.gitattributes) explicitly includes the two `.pd` patches in language statistics.
+
+Pure Data provides an accessible graphical environment for prototyping signal flow, routing, gain, delay, filtering, test signals, and control behavior. Those concepts are transferable to node-based commercial DSP environments such as Audio Weaver, making this project useful preparation when Audio Weaver access is unavailable. Pure Data is not presented as a complete substitute for Audio Weaver's proprietary modules, embedded-target integration, deployment workflow, automotive middleware, or production validation tools.
+
 This is the first active implementation project in the repository. The Pure Data patch functions as a small real-time DSP workbench covering:
 
 - stereo audio-file selection and playback
