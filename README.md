@@ -26,18 +26,18 @@ Areas of focus include acoustic capture, signal-chain integrity, real-time DSP, 
 
 Developed and documented a Pure Data prototype for real-time audio reproduction experiments. The patch combines stereo source playback, channel delay, filtering, adjustable gain, generated test signals, level-derived control, low-frequency routing, and protected stereo output. A second version reorganizes the same signal graph into a cleaner engineering layout, while the documentation distinguishes implemented behavior from items still requiring measurement and validation.
 
-Review the [full project documentation](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [original Pure Data patch](assets/pure-data/Sample_Circuit.pd), [cleaner Version 2 patch](assets/pure-data/Sample_Circuit_Clean_v2.pd), [implemented processing details](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#what-the-project-covers), [current technical notes](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#current-technical-notes), and [recommended validation sequence](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence).
-
-**Programming / DSP environment:** [Pure Data](https://puredata.info/) (`.pd`) is a visual dataflow programming environment for real-time audio and multimedia systems. The repository's [GitHub Linguist configuration](.gitattributes) includes the two `.pd` patches in language statistics.
+**Programming / DSP environment:** Pure Data (`.pd`) is a visual dataflow programming environment for real-time audio and multimedia systems. The repository's GitHub Linguist configuration includes the two `.pd` patches in language statistics.
 
 Pure Data provides an accessible graphical environment for prototyping signal flow, routing, gain, delay, filtering, test signals, and control behavior. Those concepts transfer conceptually to node-based commercial DSP environments such as Audio Weaver when Audio Weaver access is unavailable. Pure Data is not presented as a substitute for Audio Weaver's proprietary modules, embedded-target integration, deployment workflow, automotive middleware, or production-validation tools.
+
+Review the [full project documentation](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [original patch](assets/pure-data/Sample_Circuit.pd), [cleaner Version 2 patch](assets/pure-data/Sample_Circuit_Clean_v2.pd), [processing details](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#what-the-project-covers), [technical notes](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#current-technical-notes), [validation sequence](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence), [Pure Data](https://puredata.info/), and [language configuration](.gitattributes).
 
 ---
 
 ## Foundation documents
 
-- [Engineering Study Template](docs/00_Engineering_Study_Template.md)
-- [From Capture to Reproduction: Establishing the Engineering Foundation](docs/Engineering_Foundation_From_Capture_to_Reproduction.md)
+- Engineering Study Template
+- From Capture to Reproduction: Establishing the Engineering Foundation
 
 These documents establish the systems-level framework connecting capture, processing, acoustics, reproduction, measurement, and perception.
 
