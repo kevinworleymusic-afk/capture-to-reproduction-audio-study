@@ -8,6 +8,12 @@
 
 This is the first active implementation project in the Capture-to-Reproduction Audio Study. It is an early real-time DSP workbench rather than a finished automotive processor or production signal chain.
 
+## Technology and language
+
+The project is implemented in [Pure Data](https://puredata.info/) using `.pd` patch files. Pure Data is a visual dataflow programming environment: executable DSP behavior is defined by objects, messages, signal connections, parameters, and routing rather than conventional line-by-line source code.
+
+The patch demonstrates graphical construction of real-time signal flow and provides conceptual preparation for node-based DSP tools such as Audio Weaver. Both environments involve building and connecting processing blocks, managing parameters and routing, and evaluating system behavior. However, this project does not claim Audio Weaver experience or equivalence with Audio Weaver's proprietary libraries, embedded deployment, automotive integration, code-generation, or production-validation capabilities.
+
 ## What the project covers
 
 The patch provides a visual, real-time environment for exploring how multiple audio-processing functions interact within one signal path. It currently includes:
