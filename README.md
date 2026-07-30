@@ -1,6 +1,8 @@
 # Capture-to-Reproduction Audio Study
 
-A portfolio repository documenting progression from [recording engineering](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study) toward loudspeaker systems, digital signal processing, critical listening, and automotive audio reproduction.
+A portfolio repository documenting progression from recording engineering toward loudspeaker systems, digital signal processing, critical listening, and automotive audio reproduction.
+
+Review the [recording-engineering foundation](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/tree/main/Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study), [implemented Project 01 DSP prototype](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), and [future automotive projects](docs/Future-Projects/).
 
 ## Publication status
 
@@ -39,9 +41,11 @@ Pure Data provides an accessible graphical environment for prototyping signal fl
 
 These documents establish the systems-level framework connecting capture, processing, acoustics, reproduction, measurement, and perception.
 
+Review the [engineering study template](docs/00_Engineering_Study_Template.md) and [capture-to-reproduction foundation](docs/Engineering_Foundation_From_Capture_to_Reproduction.md).
+
 ## Future projects
 
-Planned, proposed, conditional, and access-dependent projects are grouped separately in the [Future Projects folder](docs/Future-Projects/) so they are not visually blended with work that already contains an implementation artifact.
+Planned, proposed, conditional, and access-dependent projects are grouped separately so they are not visually blended with work that already contains an implementation artifact.
 
 The future-project group currently covers:
 
@@ -55,6 +59,8 @@ The future-project group currently covers:
 - optional hardware, embedded-C, Audio Weaver, and physical-CAN extensions
 
 These remain plans rather than completed-work claims.
+
+Review the [Future Projects index](docs/Future-Projects/), [automotive implementation roadmap](docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md), [SigmaStudio follow-up](docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md), [conditional installed-DSP plan](docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md), and [installer quote checklist](docs/Future-Projects/Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf).
 
 ---
 
