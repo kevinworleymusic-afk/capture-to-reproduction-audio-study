@@ -22,29 +22,13 @@ Areas of focus include acoustic capture, signal-chain integrity, real-time DSP, 
 
 **Status:** Implemented educational prototype under continued technical review
 
-- [Full project documentation](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
-- [Original Pure Data patch](assets/pure-data/Sample_Circuit.pd)
-- [Clean layout, Version 2](assets/pure-data/Sample_Circuit_Clean_v2.pd)
+Developed and documented a Pure Data prototype for real-time audio reproduction experiments. The patch combines stereo source playback, channel delay, filtering, adjustable gain, generated test signals, level-derived control, low-frequency routing, and protected stereo output. A second version reorganizes the same signal graph into a cleaner engineering layout, while the documentation distinguishes implemented behavior from items still requiring measurement and validation.
 
-**Programming / DSP environment:** [Pure Data](https://puredata.info/) (`.pd`) — a visual dataflow programming environment for real-time audio and multimedia systems. The repository's [GitHub Linguist configuration](.gitattributes) explicitly includes the two `.pd` patches in language statistics.
+Review the [full project documentation](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [original Pure Data patch](assets/pure-data/Sample_Circuit.pd), [cleaner Version 2 patch](assets/pure-data/Sample_Circuit_Clean_v2.pd), [implemented processing details](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#what-the-project-covers), [current technical notes](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#current-technical-notes), and [recommended validation sequence](docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence).
 
-Pure Data provides an accessible graphical environment for prototyping signal flow, routing, gain, delay, filtering, test signals, and control behavior. Those concepts are transferable to node-based commercial DSP environments such as Audio Weaver, making this project useful preparation when Audio Weaver access is unavailable. Pure Data is not presented as a complete substitute for Audio Weaver's proprietary modules, embedded-target integration, deployment workflow, automotive middleware, or production validation tools.
+**Programming / DSP environment:** [Pure Data](https://puredata.info/) (`.pd`) is a visual dataflow programming environment for real-time audio and multimedia systems. The repository's [GitHub Linguist configuration](.gitattributes) includes the two `.pd` patches in language statistics.
 
-This is the first active implementation project in the repository. The Pure Data patch functions as a small real-time DSP workbench covering:
-
-- stereo audio-file selection and playback
-- sum-and-difference processing experiments
-- independent left and right delay lines
-- voltage-controlled and high-pass filtering
-- separate left and right output gain
-- an 80 Hz low-frequency branch with independent level control
-- 1 kHz sine and broadband-noise test generation
-- envelope-derived level-control experiments
-- output clipping and separate stereo DAC routing
-
-Version 2 reorganizes the same stored DSP connection graph into clearly labeled sections for source playback, sum/difference processing, delay, filtering, diagnostics, test signals, low-frequency processing, output levels, and channel outputs. The cleaner layout improves readability and maintainability without presenting the prototype as a finished automotive processor.
-
-The project documentation identifies what is implemented, what still requires validation, and how the patch can be tested with known signals before being extended into later Python, GNU Octave, SigmaStudio, loudspeaker, or vehicle work.
+Pure Data provides an accessible graphical environment for prototyping signal flow, routing, gain, delay, filtering, test signals, and control behavior. Those concepts transfer conceptually to node-based commercial DSP environments such as Audio Weaver when Audio Weaver access is unavailable. Pure Data is not presented as a substitute for Audio Weaver's proprietary modules, embedded-target integration, deployment workflow, automotive middleware, or production-validation tools.
 
 ---
 
