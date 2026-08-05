@@ -315,6 +315,12 @@ Throughout this portfolio:
 - Academic, classroom, independent-study, and portfolio work will not be described as peer-reviewed publication.
 - Limitations and access dependencies will remain visible.
 
+## August 3, 2026 DSP Access and Resource Checkpoint
+
+Professional guidance clarified that Audio Weaver familiarity can be developed at the vocabulary and signal-flow level without treating an inaccessible commercial toolchain as a prerequisite. Lower-cost hands-on candidates include miniDSP, TinySine hardware with SigmaStudio, and the open-source DSPi project. See the [dated resource and access note](05_Automotive_DSP_Learning_Resources_and_Access_Constraints.md).
+
+This checkpoint changes the near-term sequence, not the completion status of any project: compare a defined exercise across accessible platforms before purchasing hardware, while retaining Audio Weaver as an interview-study and future access-dependent extension.
+
 ## Current Priority
 
 The intended priority order is:
