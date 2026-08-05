@@ -57,10 +57,11 @@ The future-project group currently covers:
 - a planned measurement-guided SigmaStudio follow-up
 - a conditional installed-car-DSP development platform
 - optional hardware, embedded-C, Audio Weaver, and physical-CAN extensions
+- a dated professional-guidance note comparing Audio Weaver study with lower-cost miniDSP, TinySine/SigmaStudio, and DSPi routes
 
 These remain plans rather than completed-work claims.
 
-Review the [Future Projects index](docs/Future-Projects/), [automotive implementation roadmap](docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md), [SigmaStudio follow-up](docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md), [conditional installed-DSP plan](docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md), and [installer quote checklist](docs/Future-Projects/Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf).
+Review the [Future Projects index](docs/Future-Projects/), [automotive implementation roadmap](docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md), [SigmaStudio follow-up](docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md), [conditional installed-DSP plan](docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md), [automotive DSP access and resources note](docs/Future-Projects/05_Automotive_DSP_Learning_Resources_and_Access_Constraints.md), and [installer quote checklist](docs/Future-Projects/Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf).
 
 ---
 
@@ -76,7 +77,8 @@ capture-to-reproduction-audio-study/
 │   ├── Future-Projects/
 │   │   ├── 02_Automotive_Audio_Implementation_Roadmap.md
 │   │   ├── 03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md
-│   │   └── 04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md
+│   │   ├── 04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md
+│   │   └── 05_Automotive_DSP_Learning_Resources_and_Access_Constraints.md
 │   └── engineering-evolution/
 ├── diagrams/
 ├── references/
