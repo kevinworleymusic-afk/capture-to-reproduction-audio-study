@@ -6,6 +6,8 @@
 
 Planned post-study engineering extension. This project begins after the initial open-room versus simulated-cabin research process has been completed and usable measurement and listening results are available.
 
+**August 3 resource checkpoint:** TinySine hardware was identified through professional guidance as a potentially accessible way to experiment with SigmaStudio. This does not change the project from planned to implemented; review the [DSP access and learning-resources note](05_Automotive_DSP_Learning_Resources_and_Access_Constraints.md) before selecting hardware.
+
 ## Project Purpose
 
 Translate findings from the initial Immersive Audio Evaluation Research Study into a documented DSP correction strategy using SigmaStudio.
