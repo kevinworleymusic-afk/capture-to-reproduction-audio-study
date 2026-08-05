@@ -10,6 +10,8 @@ This scenario would be implemented only if sufficient capital becomes available,
 
 This document is a planning scenario, not a purchase commitment, completed installation, or claim of vehicle-tuning experience.
 
+**August 3 resource checkpoint:** Professional guidance identified miniDSP as a route to light EQ/tuning practice and TinySine/SigmaStudio or DSPi as lower-cost alternatives for investigation. These options do not authorize a purchase or supersede this plan’s access, safety, documentation, and validation requirements. See the [DSP access and learning-resources note](05_Automotive_DSP_Learning_Resources_and_Access_Constraints.md).
+
 ## Purpose
 
 Use an installed aftermarket vehicle DSP as a repeatable measurement, tuning, critical-listening, and validation platform.
