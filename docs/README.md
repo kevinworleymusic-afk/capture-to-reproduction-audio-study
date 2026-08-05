@@ -18,6 +18,7 @@ Projects that follow 01 are grouped under [Future-Projects/](Future-Projects/) a
 - [02 — Automotive Audio Implementation Roadmap](Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)
 - [03 — Measurement-Guided DSP Development in SigmaStudio](Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
 - [04 — Conditional Car DSP Installation and Portfolio Validation Plan](Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
+- [05 — Automotive DSP Learning Resources and Access Constraints](Future-Projects/05_Automotive_DSP_Learning_Resources_and_Access_Constraints.md) — August 3 professional-guidance note separating Audio Weaver interview study from lower-cost hands-on DSP routes
 
 These are planned, proposed, conditional, or access-dependent projects rather than completed-work claims.
 
